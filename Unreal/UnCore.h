@@ -497,6 +497,7 @@ enum EGame
 		GAME_Jedi = GAME_UE4(21)+1,
 		// 4.25
 		GAME_Dauntless = GAME_UE4(25)+1,
+		GAME_Valorant = GAME_UE4(25)+2,
 
 	GAME_ENGINE    = 0xFFF0000	// mask for game engine
 };
